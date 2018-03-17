@@ -1,0 +1,24 @@
+{
+  "name": "chatterbox",
+  "version": "1.0.0",
+  "description": "hw5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgrenrock1/473-hw5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgrenrock1/473-hw5/issues"
+  },
+  "homepage": "https://github.com/sgrenrock1/473-hw5#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  }
+}
